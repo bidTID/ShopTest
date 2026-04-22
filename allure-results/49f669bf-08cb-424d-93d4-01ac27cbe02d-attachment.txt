@@ -1,0 +1,16 @@
+[2026-04-22 10:17:21,665] [DEBUG] 找到元素: ('xpath', '/html/body/div[2]/div[1]/div[1]/a[1]/img')
+[2026-04-22 10:17:21,768] [DEBUG] 找到元素: ('xpath', '/html/body/div[2]/div[1]/div/form/table/tbody/tr[1]/td[2]/input')
+[2026-04-22 10:17:21,775] [DEBUG] 获取元素值: 
+[2026-04-22 10:17:21,782] [DEBUG] 找到元素: ('xpath', '/html/body/div[2]/div[1]/div/form/table/tbody/tr[1]/td[2]/input')
+[2026-04-22 10:17:21,847] [DEBUG] 找到元素: ('xpath', '/html/body/div[2]/div[1]/div/form/table/tbody/tr[2]/td[2]/input')
+[2026-04-22 10:17:21,851] [DEBUG] 获取元素值: 
+[2026-04-22 10:17:21,859] [DEBUG] 找到元素: ('xpath', '/html/body/div[2]/div[1]/div/form/table/tbody/tr[2]/td[2]/input')
+[2026-04-22 10:17:21,903] [DEBUG] 找到元素: ('xpath', '//*[@id="customer_logon_0"]')
+[2026-04-22 10:17:22,245] [DEBUG] 找到元素: ('xpath', '//*[@id="product_findByName_name"]')
+[2026-04-22 10:17:22,312] [DEBUG] 输入文本: c
+[2026-04-22 10:17:22,404] [DEBUG] 点击元素: ('xpath', '//*[@id="product_findByName_0"]')
+[2026-04-22 10:17:22,609] [DEBUG] 点击元素: ('xpath', '/html/body/div[2]/div[2]/div[2]/ul[1]/li/table/tbody/tr[5]/td/a/img')
+[2026-04-22 10:17:22,722] [DEBUG] 点击元素: ('xpath', '/html/body/div[2]/div[2]/div[2]/ul[1]/li/table/tbody/tr[5]/td/a/img')
+[2026-04-22 10:17:22,770] [DEBUG] 找到元素: ('xpath', '/html/body/div[2]/div[2]/div[2]/table/tbody/tr[4]/td/a[3]/img')
+[2026-04-22 10:17:22,862] [DEBUG] 找到元素: ('xpath', '/html/body/div[2]/form/div/div[6]/table/tbody/tr/td/input')
+[2026-04-22 10:17:22,951] [DEBUG] 找到元素: ('xpath', '/html/body/div[2]/div[2]/div[2]/form/table/tbody/tr[6]/td/input')
