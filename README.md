@@ -9,27 +9,27 @@
 - **灵活配置**：支持通过命令行参数控制浏览器是否无头运行。
 - 
 ## 📁 项目结构
-Shop/
-├── Page/ # 页面对象层
-│ ├── BasePage.py # 页面基类，封装通用操作
-│ ├── home_page.py # 首页
-│ ├── login_page.py # 登录页
-│ ├── register_page.py # 注册页
-│ ├── search_page.py # 搜索结果页
-│ ├── goods_details_page.py # 商品详情页
-│ ├── buy_cart_page.py # 购物车页
-│ ├── order_page.py # 订单页
-│ └── order_confirm_page.py # 订单确认页
-├── test/ # 测试用例层
-│ ├── test_login.py # 登录注册流程测试
-│ ├── test_search.py # 商品搜索测试
-│ └── test_user_flow.py # 完整用户购物流程测试
-├── utils/ # 工具层
-│ ├── driver_factory.py # 浏览器驱动工厂
-│ └── logger.py # 日志配置
-├── config.py # 全局配置文件（URL、测试账号等）
-├── conftest.py # Pytest 固件与钩子（含失败截图逻辑）
-├── requirements.txt # 项目依赖
+
+- **Page/**：页面对象层
+  - `BasePage.py`：页面基类，封装通用操作
+  - `home_page.py`：首页
+  - `login_page.py`：登录页
+  - `register_page.py`：注册页
+  - `search_page.py`：搜索结果页
+  - `goods_details_page.py`：商品详情页
+  - `buy_cart_page.py`：购物车页
+  - `order_page.py`：订单页
+  - `order_confirm_page.py`：订单确认页
+- **test/**：测试用例层
+  - `test_login.py`：登录注册流程测试
+  - `test_search.py`：商品搜索测试
+  - `test_user_flow.py`：完整用户购物流程测试
+- **utils/**：工具层
+  - `driver_factory.py`：浏览器驱动工厂
+  - `logger.py`：日志配置
+- `config.py`：全局配置文件（URL、测试账号等）
+- `conftest.py`：Pytest 固件与钩子（含失败截图逻辑）
+- `requirements.txt`：项目依赖
 
 ## ⚙️ 环境要求
 
